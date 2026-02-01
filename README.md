@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 A beginner can ask me about python, I might know a thing or two.
 - 📫 Email: armoogamkrish@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I visted cuba when i was younger.
+- ⚡ Fun fact: I visted cuba when I was younger.
